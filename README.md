@@ -1,11 +1,5 @@
 # 👋 Welcome to my profile! My name is Gwangho Lee 👋
 
-<div align=center>
-	 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghlee9883)](https://solved.ac/ghlee9883)
- 
-  </div>
-
   
 ## 📚 My Tech Stack 📚
   
@@ -18,8 +12,6 @@
 
 - Backend Server Developer
 
-- Fullstack Developer
-
 ##  ⚡ My Activities ⚡
 
 - 2022
@@ -28,7 +20,9 @@
 - 2023
   - 2023년도 컴퓨터공학부 부학생회장
   - 2023년도 컴퓨터공학부 학술동아리 기획부장
-
+- 2026
+  - 2026년도 컴퓨터공학부 학생회장
+    
 ##  📫 How to reach me 
 
 - Want my email? [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
